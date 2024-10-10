@@ -27,6 +27,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint3.Task3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint3.Task3.V1.Test", "Tyuiu.MitinNV.Sprint3.Task3.V1.Test\Tyuiu.MitinNV.Sprint3.Task3.V1.Test.csproj", "{0CACC61A-B0F0-470E-9C09-84D17BC75778}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint3.Task4.V2.Lib", "Tyuiu.MitinNV.Sprint3.Task4.V2.Lib\Tyuiu.MitinNV.Sprint3.Task4.V2.Lib.csproj", "{77E16EF6-079E-40D4-B599-AC0FD7B757D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint3.Task4.V2", "Tyuiu.MitinNV.Sprint3.Task4.V2\Tyuiu.MitinNV.Sprint3.Task4.V2.csproj", "{FE9775AC-EF90-49A3-ABBF-C3731EC2F7C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint3.Task4.V2.Test", "Tyuiu.MitinNV.Sprint3.Task4.V2.Test\Tyuiu.MitinNV.Sprint3.Task4.V2.Test.csproj", "{19904317-D3DE-4DFD-A2BC-9AD503FA5281}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +90,17 @@ Global
 		{0CACC61A-B0F0-470E-9C09-84D17BC75778}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CACC61A-B0F0-470E-9C09-84D17BC75778}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CACC61A-B0F0-470E-9C09-84D17BC75778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E16EF6-079E-40D4-B599-AC0FD7B757D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E16EF6-079E-40D4-B599-AC0FD7B757D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E16EF6-079E-40D4-B599-AC0FD7B757D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E16EF6-079E-40D4-B599-AC0FD7B757D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9775AC-EF90-49A3-ABBF-C3731EC2F7C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9775AC-EF90-49A3-ABBF-C3731EC2F7C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9775AC-EF90-49A3-ABBF-C3731EC2F7C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9775AC-EF90-49A3-ABBF-C3731EC2F7C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19904317-D3DE-4DFD-A2BC-9AD503FA5281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19904317-D3DE-4DFD-A2BC-9AD503FA5281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19904317-D3DE-4DFD-A2BC-9AD503FA5281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19904317-D3DE-4DFD-A2BC-9AD503FA5281}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
