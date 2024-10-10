@@ -13,7 +13,7 @@ namespace Tyuiu.MitinNV.Sprint3.Task2.V8.Lib
                 res += 1 / Math.Pow(Math.Cos(5) + 1, 2);
                 i++;
             }
-            while (i <= stopValue);
+            while (i < stopValue);
 
             return Math.Round(res, 3);
         }
