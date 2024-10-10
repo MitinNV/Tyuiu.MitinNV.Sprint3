@@ -6,11 +6,11 @@ namespace Tyuiu.MitinNV.Sprint3.Task2.V8.Lib
     {
         public double GetMultiplySeries(int startValue, int stopValue)
         {
-            var res = 0.0;
+            var res = 1.0;
             var i = startValue;
             do
             {
-                res *= 1 / Math.Pow(Math.Cos(5) + 1, 2);
+                res *= 1 / (Math.Cos(5) + 1) / (Math.Cos(5) + 1);
                 i++;
             }
             while (i <= stopValue);

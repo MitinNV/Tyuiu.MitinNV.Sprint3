@@ -9,8 +9,8 @@ namespace Tyuiu.MitinNV.Sprint3.Task2.V8.Test
         public void TestMethod1()
         {
             DataService ds = new DataService();
-            var varForTest = 6.069;
-            Assert.AreEqual(varForTest, ds.GetMultiplySeries(1, 10));
+            var varForTest = 0.001;
+            Assert.AreEqual(varForTest, ds.GetMultiplySeries(1, 15));
         }
     }
 }
