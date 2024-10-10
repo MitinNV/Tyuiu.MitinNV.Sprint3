@@ -113,3 +113,4 @@ C:\Users\milirin\source\repos\Tyuiu.MitinNV.Sprint3\Tyuiu.MitinNV.Sprint3.Task0.
 C:\Users\milirin\source\repos\Tyuiu.MitinNV.Sprint3\Tyuiu.MitinNV.Sprint3.Task0.V3.Test\obj\Debug\net8.0\Tyuiu.MitinNV.Sprint3.Task0.V3.Test.pdb
 C:\Users\milirin\source\repos\Tyuiu.MitinNV.Sprint3\Tyuiu.MitinNV.Sprint3.Task0.V3.Test\obj\Debug\net8.0\Tyuiu.MitinNV.Sprint3.Task0.V3.Test.genruntimeconfig.cache
 C:\Users\milirin\source\repos\Tyuiu.MitinNV.Sprint3\Tyuiu.MitinNV.Sprint3.Task0.V3.Test\obj\Debug\net8.0\ref\Tyuiu.MitinNV.Sprint3.Task0.V3.Test.dll
+C:\Users\milirin\source\repos\Tyuiu.MitinNV.Sprint3\Tyuiu.MitinNV.Sprint3.Task0.V3.Test\obj\Debug\net8.0\Tyuiu.MitinNV.Sprint3.Task0.V3.Test.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tyuiu.MitinNV.Sprint3.Task0.V3.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f94a6d3f572173f4580eb409b29b154c4f036a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tyuiu.MitinNV.Sprint3.Task0.V3.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tyuiu.MitinNV.Sprint3.Task0.V3.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

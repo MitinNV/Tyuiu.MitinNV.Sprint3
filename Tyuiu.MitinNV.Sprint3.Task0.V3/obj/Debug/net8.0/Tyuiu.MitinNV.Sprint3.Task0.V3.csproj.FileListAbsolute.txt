@@ -17,3 +17,4 @@ C:\Users\milirin\source\repos\Tyuiu.MitinNV.Sprint3\Tyuiu.MitinNV.Sprint3.Task0.
 C:\Users\milirin\source\repos\Tyuiu.MitinNV.Sprint3\Tyuiu.MitinNV.Sprint3.Task0.V3\obj\Debug\net8.0\Tyuiu.MitinNV.Sprint3.Task0.V3.pdb
 C:\Users\milirin\source\repos\Tyuiu.MitinNV.Sprint3\Tyuiu.MitinNV.Sprint3.Task0.V3\obj\Debug\net8.0\Tyuiu.MitinNV.Sprint3.Task0.V3.genruntimeconfig.cache
 C:\Users\milirin\source\repos\Tyuiu.MitinNV.Sprint3\Tyuiu.MitinNV.Sprint3.Task0.V3\obj\Debug\net8.0\ref\Tyuiu.MitinNV.Sprint3.Task0.V3.dll
+C:\Users\milirin\source\repos\Tyuiu.MitinNV.Sprint3\Tyuiu.MitinNV.Sprint3.Task0.V3\obj\Debug\net8.0\Tyuiu.MitinNV.Sprint3.Task0.V3.sourcelink.json
