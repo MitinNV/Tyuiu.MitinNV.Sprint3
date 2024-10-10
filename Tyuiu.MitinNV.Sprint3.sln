@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint3.Task0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint3.Task0.V3.Test", "Tyuiu.MitinNV.Sprint3.Task0.V3.Test\Tyuiu.MitinNV.Sprint3.Task0.V3.Test.csproj", "{BD18A93A-FC10-48C9-ACD7-113A1AF9C399}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint3.Task1.V2.Lib", "Tyuiu.MitinNV.Sprint3.Task1.V2.Lib\Tyuiu.MitinNV.Sprint3.Task1.V2.Lib.csproj", "{71DA5A4A-D278-4C8F-9B19-FE3B9A142A60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint3.Task1.V2", "Tyuiu.MitinNV.Sprint3.Task1.V2\Tyuiu.MitinNV.Sprint3.Task1.V2.csproj", "{D31A624B-59A5-4B5F-B7A4-333636BC0777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MitinNV.Sprint3.Task1.V2.Test", "Tyuiu.MitinNV.Sprint3.Task1.V2.Test\Tyuiu.MitinNV.Sprint3.Task1.V2.Test.csproj", "{8F439BB8-C2A8-4C62-BF26-0DD8A0088B05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +36,17 @@ Global
 		{BD18A93A-FC10-48C9-ACD7-113A1AF9C399}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD18A93A-FC10-48C9-ACD7-113A1AF9C399}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD18A93A-FC10-48C9-ACD7-113A1AF9C399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71DA5A4A-D278-4C8F-9B19-FE3B9A142A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DA5A4A-D278-4C8F-9B19-FE3B9A142A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DA5A4A-D278-4C8F-9B19-FE3B9A142A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DA5A4A-D278-4C8F-9B19-FE3B9A142A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D31A624B-59A5-4B5F-B7A4-333636BC0777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D31A624B-59A5-4B5F-B7A4-333636BC0777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D31A624B-59A5-4B5F-B7A4-333636BC0777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D31A624B-59A5-4B5F-B7A4-333636BC0777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F439BB8-C2A8-4C62-BF26-0DD8A0088B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F439BB8-C2A8-4C62-BF26-0DD8A0088B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F439BB8-C2A8-4C62-BF26-0DD8A0088B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F439BB8-C2A8-4C62-BF26-0DD8A0088B05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
