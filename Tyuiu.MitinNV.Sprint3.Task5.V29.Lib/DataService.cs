@@ -7,9 +7,9 @@ namespace Tyuiu.MitinNV.Sprint3.Task5.V29.Lib
         public double GetSumSumSeries(int x, int startValue1, int startValue2, int stopValue1, int stopValue2)
         {
             var res = 0.0;
-            for (int i = startValue1; i <= stopValue1; i++) 
+            for (int i = startValue2; i <= stopValue2; i++) 
             {
-                for (int k = startValue2; k <= stopValue2; k++)
+                for (int k = startValue1; k <= stopValue1; k++)
                 {
                     res += (x / i) + Math.Sin(x);
                 }
