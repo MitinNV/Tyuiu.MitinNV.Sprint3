@@ -9,9 +9,9 @@ namespace Tyuiu.MitinNV.Sprint3.Task5.V29.Lib
             double res = 0;
             for (int i = startValue1; i <= stopValue1; i++)
             {
-                for (int j = startValue2; j <= stopValue2; j++)
+                for (double j = startValue2; j <= stopValue2; j++)
                 {
-                    res += (x / j) + Math.Sin(x);
+                    res += ((x * 1.0) / j) + Math.Sin(x);
                 }
             }
             
