@@ -11,7 +11,7 @@ namespace Tyuiu.MitinNV.Sprint3.Task5.V29.Lib
             {
                 for (int k = startValue1; k <= stopValue1; k++)
                 {
-                    res += (x / i) + Math.Sin(x);
+                    res += (x / k) + Math.Sin(x);
                 }
             }
 
