@@ -11,11 +11,11 @@ namespace Tyuiu.MitinNV.Sprint3.Task5.V29.Lib
             {
                 for (int k = startValue2; k <= stopValue2; k++)
                 {
-                    res += (x / k) + Math.Sin(x);
+                    res += (x / i) + Math.Sin(x);
                 }
             }
 
-            return res;
+            return Math.Round(res, 3);
         }
     }
 }
