@@ -15,7 +15,7 @@ namespace Tyuiu.MitinNV.Sprint3.Task5.V29.Lib
                     res += (x / j) + Math.Sin(x);
                 }
             }
-
+            res += (x / stopValue1) + Math.Sin(x);
             return Math.Round(res, 3);
         }
     }
