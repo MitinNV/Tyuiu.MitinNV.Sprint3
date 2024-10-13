@@ -7,16 +7,15 @@ namespace Tyuiu.MitinNV.Sprint3.Task5.V29.Lib
         public double GetSumSumSeries(int x, int startValue1, int startValue2, int stopValue1, int stopValue2)
         {
             var res = 0.0;
-            for (var i = startValue1; i <= stopValue1; i++)
+            for (int i = startValue1; i <= stopValue1; i++) 
             {
-                res += (x / i) + Math.Sin(x);
-                for (var j = startValue2; j <= stopValue2; j++)
+                for (int k = startValue2; k <= stopValue2; k++)
                 {
-                    res += (x / j) + Math.Sin(x);
+                    res += (x / k) + Math.Sin(x);
                 }
             }
-            res += (x / stopValue1) + Math.Sin(x);
-            return Math.Round(res, 3);
+
+            return res;
         }
     }
 }
